@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Jogo da Forca Vue.js</h1>
+    <h1>Jogo da Forca</h1>
 
     <section v-if="tela === 'inicio'" id="inicio">
       <Formulario
