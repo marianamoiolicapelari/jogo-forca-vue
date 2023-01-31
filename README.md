@@ -6,7 +6,7 @@ Jogo da Forca desenvolvido em Vue.js 3 trabalhando com components e props.
 
 ## 🎨 Layout
 
-![image]()
+![image](https://github.com/marianamoiolicapelari/jogo-forca-vue/blob/main/src/assets/layout.png)
 
 ## 🛠 Tecnologias
 
